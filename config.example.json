@@ -1,0 +1,12 @@
+{
+  "mode": "ssh",
+  "ssh_host": "eda-uni",
+  "ssh_port": 22,
+  "ssh_user": "ISDL_UG_107",
+  "ssh_key_path": null,
+  "remote_work_dir": "/home/ISDL_UG_107/work",
+  "cshrc_path": "/cad/cshrc",
+  "virtuoso_command": "virtuoso -nograph -replay",
+  "default_library": "EE301_2026",
+  "timeout": 60.0
+}
