@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Configuration with credentials
+config.json
+
+# Temporary EDA and log files
+*.il
+*.ocn
+*.log
+*.raw
+*.psf
+output.txt
+_mcp_output.txt
+
+# OS specific
+.DS_Store
+Thumbs.db
